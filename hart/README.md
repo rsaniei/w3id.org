@@ -5,8 +5,12 @@ HART is available online at https://rsaniei.github.io/hart
 
 **Contact:**
 This taxonomy is created and maintained by:
-Rana Saniei
-PhD Researcher
+Rana Saniei and Delaram Golpaygani.
+RanaSaniei: PhD Researcher
 Ontology Engineering Group, Universidad Politécnica de Madrid, Madrid, Spain
 r.saniei@upm.es
 GitHub: rsaniei
+
+Delaram Golpaygani: PhD Researcher
+Trinity College Dublin, Dublin, Ireland
+delaram.golpayegani@adaptcentre.ie
