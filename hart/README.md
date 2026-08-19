@@ -5,10 +5,10 @@ HART is available online at https://rsaniei.github.io/hart
 
 **Contact:**
 This taxonomy is created and maintained by:
-Delaram Golpaygani
-Postdoc Researcher 
-Trinity College Dublin
-delaram.golpayegani@adaptcentre.ie
+Delaram Golpaygani,
+Postdoc Researcher,
+Trinity College Dublin,
+delaram.golpayegani@adaptcentre.ie ,
 GitHub: DelaramGlp
 
 Rana Saniei
